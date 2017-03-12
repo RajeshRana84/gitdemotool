@@ -13,5 +13,5 @@ public class GitDemoApplication {
 		SpringApplication.run(GitDemoApplication.class, args);
 	}
 	
-	// One more comment from IDE
+	// One more comment from GITHUB
 }
